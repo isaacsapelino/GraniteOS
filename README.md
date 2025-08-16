@@ -5,7 +5,7 @@
 # ██║     ██║  ██║██║  ██║██║ ╚████║██║   ██║   ███████╗
 # ╚═╝     ╚═╝  ╚═╝╚═╝  ╚═╝╚═╝  ╚═══╝╚═╝   ╚═╝   ╚══════╝
 
-**GraniteOS – Solid. Strong. Unbreakable.**
+**GraniteOS: Built from the ground up, one stone at a time.**
 
 ---
 
