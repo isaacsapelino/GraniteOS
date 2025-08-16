@@ -1,4 +1,5 @@
-**GraniteOS: Built from the ground up, one stone at a time.**
+# GRANITE OS
+**Built from the ground up, one stone at a time.**
 
 ---
 
