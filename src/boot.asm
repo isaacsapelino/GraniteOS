@@ -41,6 +41,13 @@ pre_start:
     mov sp, 0x7C00
     sti
 
+    ; Read LBA=1 in sector
+    mov [ebr_drive_number], dl
+    mov ax, 1
+    mov cl, 1
+    mov bx, 0x7e00
+    call disk_read
+
     jmp $
     hlt
 ;===========================
